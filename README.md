@@ -1,7 +1,3 @@
-<p align="center">
-  <img src=".github/Certificado.png" alt="Certificação de Conclusão" width="100%" />
-</p>
-
 ## 🖥️ Projeto
 
 Esse projeto foi desenvolvido durante o NLW Pocket Javascript da Rocketseat.
@@ -19,3 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Docker e Zod para validação de Dados
 - Entre outras ferramentas como Vite e TanStack Query
 - Git e Github
+
+<p align="center">
+  <img src=".github/Certificado.png" alt="Certificação de Conclusão" width="100%" />
+</p>
