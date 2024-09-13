@@ -1,4 +1,5 @@
-🚀 Tecnologias
-Esse projeto foi desenvolvido durante o NLW da Rocketseat com as seguintes tecnologias:
+## 🖥️ Projeto
 
-[certificate.pdf](https://github.com/user-attachments/files/16997258/certificate.pdf)
+Esse projeto foi desenvolvido durante o NLW Pocket Javascript da Rocketseat.
+
+https://prnt.sc/lDQS8GB47MK0
